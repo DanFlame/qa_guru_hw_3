@@ -3,4 +3,4 @@
 Вторую строку Вася решил убрать
 Четвёртая строка от Васи
 #new for pushing
-#for reset
+#for reset3
